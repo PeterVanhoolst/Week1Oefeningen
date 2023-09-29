@@ -13,3 +13,4 @@ if(nummer<0){
     console.log("Het nummer is oneven");
 }
 process.exit();
+
