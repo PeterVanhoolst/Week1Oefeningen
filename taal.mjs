@@ -12,7 +12,7 @@ if(geldigeTaal == "NL"){
 console.log("Hallo. U hebt NL gekozen.");
 
 }else if(geldigeTaal == "FR"){
-
+    console.log("Bonjour. Vous avez selecter FR.");
 }else if(geldigeTaal == "EN"){
 console.log("Hello. You selected EN.");
 }else{ console.log("Ongeldige taal!");
